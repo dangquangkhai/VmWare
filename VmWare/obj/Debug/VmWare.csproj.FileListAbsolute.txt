@@ -1,0 +1,13 @@
+D:\Projects\VmWare\VmWare\bin\Debug\VmWare.exe.config
+D:\Projects\VmWare\VmWare\bin\Debug\VmWare.exe
+D:\Projects\VmWare\VmWare\bin\Debug\VmWare.pdb
+D:\Projects\VmWare\VmWare\bin\Debug\MetroFramework.dll
+D:\Projects\VmWare\VmWare\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\VmWare\VmWare\obj\Debug\VmWare.csprojAssemblyReference.cache
+D:\Projects\VmWare\VmWare\obj\Debug\VmWare.sFrmMain.resources
+D:\Projects\VmWare\VmWare\obj\Debug\VmWare.Properties.Resources.resources
+D:\Projects\VmWare\VmWare\obj\Debug\VmWare.csproj.GenerateResource.cache
+D:\Projects\VmWare\VmWare\obj\Debug\VmWare.csproj.CoreCompileInputs.cache
+D:\Projects\VmWare\VmWare\obj\Debug\VmWare.csproj.CopyComplete
+D:\Projects\VmWare\VmWare\obj\Debug\VmWare.exe
+D:\Projects\VmWare\VmWare\obj\Debug\VmWare.pdb
